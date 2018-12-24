@@ -1,0 +1,47 @@
+.app-class {
+  text-align: center;
+}
+button {
+  outline: none;
+}
+.wrapper .text-box {
+  height: 30px;
+  width: 240px;
+  border: 1px solid grey;
+  font-size: 18px;
+}
+
+.wrapper {
+  padding: 20px 0;
+}
+
+.wrapper .add-todo {
+  padding-left: 30px;
+  background-color: rgb(0, 56, 58);
+  color: white;
+  padding: 10px 30px;
+  margin-left: 10px;
+}
+.todo-list {
+  background-color: rgb(224, 224, 224);
+  display: inline-block;
+  width: 360px;
+}
+ul li {
+  list-style: none;
+}
+.list-items {
+  font-size: 20px;
+}
+.list-items {
+  font-size: 24px;
+  padding-bottom: 20px;
+}
+.remove-item {
+  float: right;
+  margin-right: 30px;
+  color: rgb(48, 4, 4);
+  border: 1px solid rgb(209, 202, 202);
+  padding: 8px 15px;
+  background-color: rgb(172, 167, 167);
+}
